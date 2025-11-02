@@ -261,10 +261,10 @@ line-height: 1.11111;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+padding-top: 120px; 
+padding-bottom: 120px;
 }
-.our-portfolio{
-padding-top: 120px;
-}
+
 .our-portfolio-title {
    
   margin-bottom: 72px;
