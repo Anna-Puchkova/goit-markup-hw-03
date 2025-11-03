@@ -214,6 +214,7 @@ width: calc((100% - 72px) / 4);
 
 .our-team {
   padding: 120px 0 120px;
+  background-color: #f4f4fd;
 }
 .our-team-title {
   font-weight: 700;
@@ -255,18 +256,17 @@ text-align: center;
 color: #434455;
 }
 .our-portfolio {
-  font-weight: 700;
-font-size: 36px;
-line-height: 1.11111;
-letter-spacing: 0.02em;
-text-align: center;
-color: #2e2f42;
 padding-top: 120px; 
 padding-bottom: 120px;
 }
 
 .our-portfolio-title {
-   
+   font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
   margin-bottom: 72px;
 }
 .our-portfolio-list {
